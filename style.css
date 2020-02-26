@@ -1,0 +1,19 @@
+.name-input,
+.age-input,
+.date-birth-input,
+.agreement-input,
+.password-input,
+.color-input,
+.time-input,
+.cars-input,
+.range-input,
+.recommend-input {
+  margin-top: 10px;
+}
+
+.personal-info,
+.registration,
+.facts-field,
+.additional-info {
+  margin-bottom: 20px;
+}
