@@ -8,6 +8,7 @@
 .cars-input,
 .range-input,
 .recommend-input {
+  display: block;
   margin-top: 10px;
 }
 
